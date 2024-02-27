@@ -5,7 +5,7 @@ metadata:
   namespace: ibanking
 spec:
   hard:
-    pods: "6" 
+    pods: "10" 
     requests.cpu: "4" 
     requests.memory: 2Gi 
     limits.cpu: "4" 
